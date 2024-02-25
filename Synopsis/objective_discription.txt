@@ -1,0 +1,9 @@
+Objectives 
+
+❖Develop a high storage cloud architecture that can accommodate large volumes of user data.
+
+	❖Establish effective authentication mechanisms that can accurately verify the identity of users before granting access to data.
+
+	❖Implement robust data encryption techniques to protect user data both in transit and at rest, ensuring that confidential information remains secure from unauthorized access.
+
+	❖Ensure the confidentiality, integrity, and availability of user data by implementing advanced security measures such as access controls, backup and disaster recovery procedures.
