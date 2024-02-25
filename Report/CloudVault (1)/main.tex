@@ -1,0 +1,104 @@
+\documentclass[12pt,a4wide,openamy]{report}
+
+
+\usepackage{amsthm,amssymb,mathrsfs,setspace,pstricks,booktabs,mathtools,amsmath}
+%latexsym,footmisc
+%\usepackage[a4paper, left=0.75cm, right=0.5cm, top=0.5cm, bottom=0.5cm]{geometry}
+\usepackage{lipsum}%% a garbage package you don't need except to create examples.
+\usepackage{fancyhdr}
+\usepackage[margin=1.2in]{geometry}
+
+\usepackage{pdfpages}
+\usepackage{tocloft}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+\usepackage{mathptmx}%%For Times New Roman
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{adjustbox}
+\usepackage{ragged2e}
+\usepackage{blindtext}
+\usepackage{hyperref} %%Clickable hyperlink
+ \usepackage{geometry}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{adjustbox}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{lipsum}
+
+
+\definecolor{urlblue}{RGB}{0, 0, 255}
+
+\begin{document}
+%%Setting alignment
+\onehalfspacing
+
+
+
+\setlength{\hsize}{1.0\hsize}% emphasize effects
+\Centering
+%%\space{5mm}
+\justifying
+%%Alignment done
+
+\input{IntroPages/01_Title}
+\input{IntroPages/02_Certificate}
+\input{IntroPages/03_Declaration}
+\input{IntroPages/05_Acknowledgment}
+\input{IntroPages/06_Abstract}
+\input{IntroPages/index}
+
+
+
+% =========== Main chapters starts here. Type in separate files and include the filename here. ==
+% ============================
+\pagenumbering{arabic}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{CloudVault}
+\lfoot{RIT, Rajaramnagar}
+\rfoot{Dept. of Computer Science}
+\cfoot{\thepage}
+\pagestyle{fancy}
+\setcounter{page}{1}
+
+\input{Chapters/Chapter1}
+
+\input{Chapters/Chapter2}
+
+\input{Chapters/Chapter3}
+
+\input{Chapters/Chapter4}
+
+\input{Chapters/Chapter5}
+
+\input{Chapters/Chapter6}
+
+\input{Chapters/Chapter7.1}
+
+\input{Chapters/Chapter8}
+
+\input{Chapters/Chapter9}
+
+\input{Chapters/Chapter10}
+
+\input{Chapters/Chapter11}
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
+

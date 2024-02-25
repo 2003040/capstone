@@ -1,0 +1,15 @@
+1. Yang, Pan, Naixue Xiong, and Jingli Ren. "Data security and privacy protection for cloud storage: A survey." IEEE Access 8 (2020): 131723-131740.
+
+2.Chu, Cheng-Kang, et al. "Key-aggregate cryptosystem for scalable data sharing in cloud storage." IEEE transactions on parallel and distributed systems 25.2 (2013): 468-477.
+
+3.Zhou, Lan, Vijay Varadharajan, and Michael Hitchens. "Achieving secure role-based access control on encrypted data in cloud storage." IEEE transactions on information forensics and security 8.12 (2013): 1947-1960.
+
+4.Wei, Qingsong, et al. "CDRM: A cost-effective dynamic replication management scheme for cloud storage cluster." 2010 IEEE international conference on cluster computing. IEEE, 2010.
+
+5.Wang, Cong, et al. "Privacy-preserving public auditing for secure cloud storage." IEEE transactions on computers 62.2 (2011): 362-375.
+
+6.Xue, Kaiping, et al. "Combining data owner-side and cloud-side access control for encrypted cloud storage." IEEE Transactions on Information Forensics and Security 13.8 (2018): 2062-2074.
+
+7.Yu, Jia, et al. "Enabling cloud storage auditing with key-exposure resistance." IEEE Transactions on Information forensics and security 10.6 (2015): 1167-1179.
+
+8.Chen, Rongmao, et al. "Dual-server public-key encryption with keyword search for secure cloud storage." IEEE transactions on information forensics and security 11.4 (2015): 789-798.
